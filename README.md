@@ -1,9 +1,13 @@
 <div align="center">
 
 <h1> 
-const String = '{"name": "Brandon Barrett ", "age": 30, "city": "Kansas City"}';
-</div><br>
+### A little more about me...  
 
+```javascript
+const bioString = '{"name": "Brandon Barrett ", "age": 30, "city": "Kansas City"}';
+</div><br>
+``` 
+  
 ### Education
 ```javascript
   School: [Metropolitan Community College - Maple Woods, Computer Science Major] 
