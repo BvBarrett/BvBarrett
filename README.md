@@ -1,15 +1,11 @@
 <div align="center">
 
-<h1> 
-### A little more about me...  
+<h1>
 
-```javascript
-  Bio: ["name": "Brandon Barrett ", "age": 30, "city": "Kansas City"]
-</div><br>
-``` 
   
-### Education
+### A little more about me...
 ```javascript
+     Bio: ["name": "Brandon Barrett ", "age": 30, "city": "Kansas City"]
   School: [Metropolitan Community College - Maple Woods, Computer Science Major] 
   code: [C++, Python, Java, SQL, Visual Studio, RStudio, Jupyter Notebook]
 ``` 
