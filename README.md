@@ -14,5 +14,5 @@ tools: [RStudio, Visual Studio, Andaconda, Jupter Notebook, IBM Watson Studio]
 [![Linkedin: brandonbarrett](https://img.shields.io/badge/-brandonbarrett-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brandon-barrett-867531295/)](https://www.linkedin.com/in/brandon-barrett-867531295/)
 
 <div id="badges">
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="c63264f4-07a8-454c-9fe0-235fb4321071" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+[<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="c63264f4-07a8-454c-9fe0-235fb4321071" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>]
 </div>
