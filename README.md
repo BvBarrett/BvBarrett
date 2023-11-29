@@ -1,6 +1,6 @@
 <div align="center">
 
-## Brandon Barrett Page
+<H1> Brandon Barrett Page
 </div><br>
 
 ## Education
@@ -11,3 +11,17 @@ Computer Science & Information Systems student developing skills in C++, Python,
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
 <br><br>
 
+### A little more about me...  
+
+const thai = {
+  pronouns: "she" | "her",
+  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
+  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  techCommunities: {
+                        coorganizer: "AfroPython",
+                        speaker: "Latinity",
+                        mentor: "EducaTRANSforma"
+                      },
+ challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+}
