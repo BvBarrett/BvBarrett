@@ -4,8 +4,8 @@
 </div> 
   
 ```javascript
-  pronouns: "he" | "him",
   about: ["name": Brandon Barrett, "city": Kansas City, "school" Metropolitan Community College Maple Woods, Computer Science Major],
+  pronouns: ["he" | "him"],
   code: [C++, Python, JavaScript, SQL],
   tools: [RStudio, Visual Studio, Andaconda, Jupter Notebook, IBM Watson Studio],
 ```
