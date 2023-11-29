@@ -1,3 +1,4 @@
+<div align="center">
 ## Brandon Barrett Page
 
 I’m attending at MCCKC majoring in Computer Science currently learning and developing my education in C++, Python, Java Script and SQL.
