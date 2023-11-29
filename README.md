@@ -1,7 +1,7 @@
 <div align="center">
 
 ### A little more about me 🤖...
-<div> 
+</div> 
   
 ```javascript
 const  = {
