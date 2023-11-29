@@ -3,6 +3,7 @@
 <br><br>
 
 ## Brandon Barrett Page
+</div>
 
 I’m attending at MCCKC majoring in Computer Science currently learning and developing my education in C++, Python, AI and SQL
 <div align="center">
