@@ -3,8 +3,6 @@
 </div> 
 
 ### A little more about me 🤖...
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-<br><br>
   
 ```javascript
   about: ["name": Brandon Barrett, "city": Kansas City, "school" Metropolitan Community College Maple Woods, Computer Science Major],
@@ -19,8 +17,7 @@
 <br><br>
 
 ### How we can connect! 🚀
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-<br><br>
 
 [![Linkedin: brandonbarrett](https://img.shields.io/badge/-brandonbarrett-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brandon-barrett-867531295/)](https://www.linkedin.com/in/brandon-barrett-867531295/)
-
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+<br><br>
