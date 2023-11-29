@@ -4,12 +4,10 @@
 </div> 
   
 ```javascript
-const name  = {
   pronouns: "he" | "him",
   about: ["name": Brandon Barrett, "city": Kansas City, "school" Metropolitan Community College Maple Woods, Computer Science Major],
   code: [C++, Python, JavaScript, SQL],
   tools: [RStudio, Visual Studio, Andaconda, Jupter Notebook, IBM Watson Studio],
-}
 ```
 
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
