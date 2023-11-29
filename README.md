@@ -1,6 +1,7 @@
 <div align="center">
 
-<h1> Brandon Barrett 
+<h1> 
+const String = '{"name": "Brandon Barrett ", "age": 30, "city": "Kansas City"}';
 </div><br>
 
 ### Education
