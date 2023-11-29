@@ -1,8 +1,4 @@
-<img src="https://giphy.com/embed/GSciDYcflNtkuC7mSi" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen><img src="https://giphy.com/gifs/loop-perfect-eternal-GSciDYcflNtkuC7mSi"> 
-
   ```javascript
-about: ["name": Brandon Barrett, "city": Kansas City, "school": Metropolitan Community College Maple Woods, "Major" Computer Science & Information Systems],
-pronouns: ["he" | "him"],
 code: [C++, Python, JavaScript, SQL],
 tools: [RStudio, Visual Studio, Andaconda, Jupter Notebook, IBM Watson Studio],
 ```
