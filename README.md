@@ -4,7 +4,7 @@
 ### A little more about me...  
 
 ```javascript
-const bioString = '{"name": "Brandon Barrett ", "age": 30, "city": "Kansas City"}';
+  Bio: ["name": "Brandon Barrett ", "age": 30, "city": "Kansas City"]
 </div><br>
 ``` 
   
