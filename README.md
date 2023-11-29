@@ -3,6 +3,8 @@
 <br><br>
 
 ## Brandon Barrett Page
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
+<br><br>
 
 I’m attending at MCCKC majoring in Computer Science currently learning and developing my education in C++, Python, Java Script and SQL.
 <div align="center">
