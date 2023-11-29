@@ -4,7 +4,7 @@
 </div> 
   
 ```javascript
-const bioString  = {
+const name  = {
   pronouns: "he" | "him",
   about: ["name": "Brandon Barrett ", "city": "Kansas City, MO", "school" Metropolitan Community College Maple Woods, Computer Science Major],
   code: [C++, Python, JavaScript, SQL],
