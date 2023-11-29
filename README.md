@@ -1,9 +1,9 @@
 <div align="center">
 
-<h2> Brandon Barrett 
+<h1> Brandon Barrett 
 </div><br>
 
-## Education
+### Education
 ```javascript
   School: [Metropolitan Community College - Maple Woods, Computer Science Major] 
   code: [C++, Python, Java, SQL, Visual Studio, RStudio, Jupyter Notebook]
@@ -16,6 +16,3 @@
 
 ### A little more about me...  
 
-```javascript
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java]
-```
