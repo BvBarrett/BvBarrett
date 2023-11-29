@@ -2,7 +2,7 @@
 
 <h1>
 
-### A little more about Brandon...
+### A little more about me 🤖...
 ```javascript
 bio: ["name": "Brandon Barrett ", "city": "Kansas City, MO", "school" Metropolitan Community College - Maple Woods, Computer Science Major]
 code: [C++, Python, JavaScript, SQL]
