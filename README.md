@@ -1,14 +1,14 @@
 <div align="center">
 
 ### A little more about me 🤖...
-
+<div> 
+  
 ```javascript
-const thai = {
+const  = {
   pronouns: "he" | "him",
   bio: ["name": "Brandon Barrett ", "city": "Kansas City, MO", "school" Metropolitan Community College - Maple Woods, Computer Science Major],
   code: [C++, Python, JavaScript, SQL],
   tools: [RStudio, Visual Studio, Andaconda, Jupter Notebook, IBM Watson Studio],
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
 ```
 
