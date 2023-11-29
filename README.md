@@ -2,7 +2,7 @@
 </h1> Hello all! 
 </div> 
 
-### A little more about me 🤖...
+### <b> A little more about me 🤖...
   
 ```javascript
   about: ["name": Brandon Barrett, "city": Kansas City, "school" Metropolitan Community College Maple Woods, Computer Science Major],
