@@ -9,6 +9,8 @@ I’m attending at MCCKC majoring in Computer Science currently learning and dev
 <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
 </div>
 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="c63264f4-07a8-454c-9fe0-235fb4321071" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 
 <!---
 BvBarrett/BvBarrett is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
