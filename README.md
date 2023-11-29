@@ -1,3 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>My Webpage</title>
+  <style>
+      body {
+        font-family: Arial, sans-serif;
+        background-color: #f0f0f0;
+      }
+    
+      h1 {
+        color: #333;
+        text-decoration: underline;
+      }
+  </style>
+</head>
+<body>
+  <!-- This is a comment -->
+  <div id="intro" class="interior">
+    <a href="/" title="Go back to the home page">
+      <img id="logo" src="/logo.png" alt="logo">
+    </a>
+  </div>
+  <h1>Welcome to My Webpage</h1>
+  <p>This is a paragraph.</p>
+  <ul>
+    <li>List item 1</li>
+    <li>List item 2</li>
+    <li>List item 3</li>
+  </ul>
+  
   ```javascript
 about: ["name": Brandon Barrett, "city": Kansas City, "school": Metropolitan Community College Maple Woods, "Major" Computer Science & Information Systems],
 pronouns: ["he" | "him"],
