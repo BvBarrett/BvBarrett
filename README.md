@@ -1,6 +1,6 @@
 <div align="center">
 
-<H1> Brandon Barrett Page
+<h2> Brandon Barrett 
 </div><br>
 
 ## Education
