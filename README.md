@@ -11,7 +11,7 @@ tools: [RStudio, Visual Studio, Andaconda, Jupter Notebook, IBM Watson Studio]
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
 <br><br>
 
-### Sharing updates 🚀
+### How we can connect! 🚀
 
 [![Linkedin: brandonbarrett](https://img.shields.io/badge/-brandonbarrett-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brandon-barrett-867531295/)](https://www.linkedin.com/in/brandon-barrett-867531295/)
 
