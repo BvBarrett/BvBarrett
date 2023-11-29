@@ -1,7 +1,8 @@
 <div align="center">
 
 ### A little more about me 🤖...
-```JavaScript 
+
+```javascript 
 bio: ["name": "Brandon Barrett ", "city": "Kansas City, MO", "school" Metropolitan Community College - Maple Woods, Computer Science Major]
 code: [C++, Python, JavaScript, SQL]
 tools: [RStudio, Visual Studio, Andaconda, Jupter Notebook, IBM Watson Studio]
