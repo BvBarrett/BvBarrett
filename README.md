@@ -1,7 +1,5 @@
 <div align="center">
 
-[![Linkedin: brandonbarrett](https://img.shields.io/badge/-brandonbarrett-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brandon-barrett-867531295/)](https://www.linkedin.com/in/brandon-barrett-867531295/)
-
 ### A little more about me 🤖...
 ```javascript
 bio: ["name": "Brandon Barrett ", "city": "Kansas City, MO", "school" Metropolitan Community College - Maple Woods, Computer Science Major]
