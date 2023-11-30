@@ -1,4 +1,3 @@
-[Hello everyone welcome]
 
 >   ```python 
 >   languages('C++, Python, JavaScript, SQL')
