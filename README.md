@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=What's%20Up?&animation=twinkling&fontSize=40)
+
 >  #### What I have been learning and growing my skills in 🚀:
 >   ```python 
 >   languages('C++, Python, JavaScript, SQL')
