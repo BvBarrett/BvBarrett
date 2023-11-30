@@ -1,4 +1,5 @@
-```java 
+```java
+<!-- comment written in markdown -->
 public static void main(String[]args){} //Java
 document.getElementById("myH1").innerHTML="Welcome to my Page"; //javascipt
 ```
