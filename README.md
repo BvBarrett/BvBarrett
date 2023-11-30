@@ -1,6 +1,5 @@
 [Hello everyone welcome]
 
-> ---
 >   ```python 
 >   languages('C++, Python, JavaScript, SQL')
 >   tools('RStudio, Visual Studio, Andaconda, Jupter Notebook, IBM Watson Studio')
