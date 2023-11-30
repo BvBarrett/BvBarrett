@@ -5,8 +5,7 @@
    ```python
    languages('C++, Python, JavaScript, SQL')
    tools('RStudio, Visual Studio, Andaconda, Jupter Notebook, IBM Watson Studio')
-   ```
-> [!NOTE]
-> [^1]: How we can connect! 
 ---
+
+[^1]: How we can connect!
 [![Linkedin: brandonbarrett](https://img.shields.io/badge/-brandonbarrett-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brandon-barrett-867531295/)](https://www.linkedin.com/in/brandon-barrett-867531295/) 
