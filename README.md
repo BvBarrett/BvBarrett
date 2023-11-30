@@ -4,9 +4,6 @@
 languages: [C++, Python, JavaScript, SQL],
 tools: [RStudio, Visual Studio, Andaconda, Jupter Notebook, IBM Watson Studio],
 ```
-<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300">
-<br><br>
-
 <b> How we can connect! 🚀
 ---
 [![Linkedin: brandonbarrett](https://img.shields.io/badge/-brandonbarrett-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brandon-barrett-867531295/)](https://www.linkedin.com/in/brandon-barrett-867531295/)
