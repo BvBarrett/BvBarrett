@@ -3,8 +3,7 @@
    ```javascript
 var s = "JavaScript syntax highlighting";
 alert(s);
-   ```
-languages: [C++, Python, JavaScript, SQL],
+   ``` languages: [C++, Python, JavaScript, SQL],
 tools: [RStudio, Visual Studio, Andaconda, Jupter Notebook, IBM Watson Studio],
 
 <b> How we can connect! 🚀
