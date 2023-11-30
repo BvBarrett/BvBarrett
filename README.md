@@ -8,4 +8,4 @@ tools: [RStudio, Visual Studio, Andaconda, Jupter Notebook, IBM Watson Studio],
 ---
 [![Linkedin: brandonbarrett](https://img.shields.io/badge/-brandonbarrett-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brandon-barrett-867531295/)](https://www.linkedin.com/in/brandon-barrett-867531295/) 
 
-[![Indeed: brandonbarrett](https://profile.indeed.com/p/brandonb-ohoavx4)]
+[![Indeed: brandonbarrett](https://profile.indeed.com/p/brandonb-ohoavx4)
