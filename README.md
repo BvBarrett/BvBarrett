@@ -2,8 +2,8 @@
 
 >  #### What I have been learning and growing my skills in 🚀:
 >   ```python 
->   languages('C++, Python, JavaScript, SQL')
->   tools('RStudio, Visual Studio, Andaconda, Jupter Notebook, IBM Watson Studio')
+>    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acpp"><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
+>   
 >  ```
 > How we can connect!
 > ---
