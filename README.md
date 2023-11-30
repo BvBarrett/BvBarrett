@@ -1,4 +1,4 @@
->  ##### What I have been learning and growing my skills in 🚀:
+>  #### What I have been learning and growing my skills in 🚀:
 >   ```python 
 >   languages('C++, Python, JavaScript, SQL')
 >   tools('RStudio, Visual Studio, Andaconda, Jupter Notebook, IBM Watson Studio')
