@@ -34,3 +34,5 @@ tools: [RStudio, Visual Studio, Andaconda, Jupter Notebook, IBM Watson Studio],
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="25" height="25"/>
 </div>
 <br><br>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
+<br><br>
