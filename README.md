@@ -20,6 +20,6 @@
 > <h3>🚀 My learning Badges</h3>
 
 > ![Alt text](python-for-data-science-and-ai(1).png)
-> ![Alt text]
+> ![Alt text](data-science-methodology(2).png)
 > ![Alt text]
 > ![Alt text]
