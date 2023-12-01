@@ -17,10 +17,3 @@
 > ---
 > [![Linkedin: brandonbarrett](https://img.shields.io/badge/-brandonbarrett-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brandon-barrett-867531295/)](https://www.linkedin.com/in/brandon-barrett-867531295/)
 
-> <details> 
->  <summary><h2> 🚀My Learning Badges</h2></summary>
->  
-> ![Alt text](python-for-data-science-and-ai(1).png)
-> ![Alt text](data-science-methodology(2).png)
-> ![Alt text](python-project-for-data-science(2).png)
-> ![Alt text](tools-for-data-science-v2(1).png)
