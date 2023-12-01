@@ -15,5 +15,5 @@
 > How we can connect!
 > ---
 > [![Linkedin: brandonbarrett](https://img.shields.io/badge/-brandonbarrett-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brandon-barrett-867531295/)](https://www.linkedin.com/in/brandon-barrett-867531295/)
-<p><a href=
-https://www.credly.com/badges/40dff569-8819-42c8-99e5-3c20ee65f5f8/public_url
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="40dff569-8819-42c8-99e5-3c20ee65f5f8" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
