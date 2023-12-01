@@ -1,5 +1,3 @@
-
-   <details> 
 >  <summary><h3>🛠️ My Skills</h3></summary>
 >  <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 >  
@@ -12,7 +10,6 @@
 >  <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 >  <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
 > 
-> <detailsopen>
 > How we can connect!
 > ---
 > [![Linkedin: brandonbarrett](https://img.shields.io/badge/-brandonbarrett-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brandon-barrett-867531295/)](https://www.linkedin.com/in/brandon-barrett-867531295/)
