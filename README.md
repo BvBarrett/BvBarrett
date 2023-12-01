@@ -21,5 +21,5 @@
 
 > ![Alt text](python-for-data-science-and-ai(1).png)
 > ![Alt text](data-science-methodology(2).png)
-> ![Alt text]
-> ![Alt text]
+> ![Alt text](python-project-for-data-science(2).png)
+> ![Alt text](
