@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=What's%20Up?&animation=twinkling&fontSize=40)
 
-> <details> 
 >  <summary><h3>🛠️ My Favorite Tools</h3></summary>
 >  <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 >   
