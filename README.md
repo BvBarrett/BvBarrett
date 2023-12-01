@@ -1,5 +1,5 @@
 
-   <details open> 
+   <details> 
 >  <summary><h3>🛠️ My Skills</h3></summary>
 >  <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 >  
