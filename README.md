@@ -14,4 +14,4 @@
 <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
  
 <a href="https://linkedin.com/in/brandon-barrett-867531295" target="blank"><img  src="LinkedIn-Blue-14-Γö¼┬½@2x.png" alt="brandon-barrett-867531295" height="14" width="72"/></a> 
-<a href="https://linkedin.com/in/brandon-barrett-867531295" target="blank"><img  src="LinkedIn-Blue-14-Γö¼┬½@2x.png" alt="brandon-barrett-867531295" height="14" width="72"/></a> 
+<a href="https://profile.indeed.com/p/brandonb-ohoavx4" target="blank"><img  src="LinkedIn-Blue-14-Γö¼┬½@2x.png" alt="brandon-barrett-867531295" height="14" width="72"/></a> 
