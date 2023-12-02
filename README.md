@@ -3,7 +3,7 @@
 </p> 
 
 <details> 
- <summary><h2>My skills <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="55">&nbsp;</h2></summary>
+ <summary><h2>My skills <img src="https://github.com/BvbBarrett/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="45">&nbsp;</h2></summary>
  
 ### Languages
 <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
