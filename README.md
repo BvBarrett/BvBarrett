@@ -2,7 +2,6 @@
 <a href="https://linkedin.com/in/brandon-barrett-867531295" target="blank"><img  src="LinkedIn-Blue-14-Γö¼┬½@2x.png" alt="brandon-barrett-867531295" height="14" width="72"/></a>   <a href="https://profile.indeed.com/p/brandonb-ohoavx4" target="blank"><img  src="Indeed_2021_Logo_RGB_White.png" alt="brandon-barrett-867531295" height="14" width="72"/></a> 
 </p> 
 
-<details> 
  <!-- Some GIFs are from https://github.com/Anmol-Baranwal//markdown-GIFs -->
  <summary><h2>My Experience <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="45">&nbsp;</h2></summary>
  
@@ -28,5 +27,5 @@
 <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
 <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-</p>
+
 
