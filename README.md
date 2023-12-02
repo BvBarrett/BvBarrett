@@ -15,5 +15,6 @@
 > 
 > How we can connect!
 > ---
+> <a href="https://linkedin.com/in/brandon-barrett-867531295" target="blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="@frankiefab100" height="30" width="30" /></a
 > [![Linkedin: brandonbarrett](https://img.shields.io/badge/-brandonbarrett-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brandon-barrett-867531295/)](https://www.linkedin.com/in/brandon-barrett-867531295/)
 
