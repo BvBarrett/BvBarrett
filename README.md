@@ -1,5 +1,7 @@
 
 <p align="center">
+  <a href="https://github.com/BvBarrett">
+    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Brandon Barrett" /></a>
 <a href="https://linkedin.com/in/brandon-barrett-867531295" target="blank"><img  src="LinkedIn-Blue-14-Γö¼┬½@2x.png" alt="brandon-barrett-867531295" height="14" width="72"/></a>   <a href="https://profile.indeed.com/p/brandonb-ohoavx4" target="blank"><img  src="Indeed_2021_Logo_RGB_White.png" alt="brandon-barrett-867531295" height="14" width="72"/></a> 
 </p> 
 
