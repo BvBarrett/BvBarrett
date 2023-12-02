@@ -13,7 +13,7 @@
 <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
  
-How we can connect!
-–––
+### How we can connect!
+---
 <a href="https://linkedin.com/in/brandon-barrett-867531295" target="blank"><img  src="LinkedIn-Blue-14-Γö¼┬½@2x.png" alt="brandon-barrett-867531295" height="14" width="72"/></a> 
 
