@@ -3,7 +3,7 @@
 <p align="center">
 <a href="https://linkedin.com/in/brandon-barrett-867531295" target="blank"><img  src="LinkedIn-Blue-14-Γö¼┬½@2x.png" alt="brandon-barrett-867531295" height="14" width="72"/></a>   <a href="https://profile.indeed.com/p/brandonb-ohoavx4" target="blank"><img  src="Indeed_2021_Logo_RGB_White.png" alt="brandon-barrett-867531295" height="14" width="72"/></a> 
  <a href="mailto:S1543012@student.mcckc.edu">
-  <img src="https://github.com/blackcater/blackcater/raw/main/images/social-gmail.svg" height="40" />
+ <a href="https://www.vecteezy.com/vector-art/6827319-email-icon-sign-symbol-logo">Email icon sign symbol logo Vectors by Vecteezy</a>
 </a>
 </p> 
 
