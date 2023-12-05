@@ -1,6 +1,6 @@
 <h3 align="center"> B.S. Computer Science Student | Aspiring Data Scientist 
 
-<h2> Inquisitive self starter, excellent communicator and highly motivated CS student with intermediate knowledge of SQL, Python, and C++ eager to develop and harness new skills
+ Inquisitive self starter, excellent communicator and highly motivated CS student with intermediate knowledge of SQL, Python, and C++ eager to develop and harness new skills
 </a></h3>
 
 
