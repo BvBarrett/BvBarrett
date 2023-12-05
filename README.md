@@ -2,7 +2,8 @@
 
 <p align="center">
 Inquisitive self starter, excellent communicator and highly motivated CS student with intermediate knowledge of SQL, Python, and C++. 
-I am eager to develop and harness new skills. 
+
+ I am eager to develop and harness new skills. 
 
 
 <p align="center">
