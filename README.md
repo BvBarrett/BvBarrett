@@ -1,9 +1,12 @@
 
 
 <p align="center">
+  <a href="https://github.com/BvBarrett">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white">
+      <img alt="GitHub" title="GitHub" height="48" width="48" src="https://cdn.simpleicons.org/github"></picture></a>
 <a href="https://linkedin.com/in/brandon-barrett-867531295" target="blank"><img  src="LinkedIn-Blue-14-Γö¼┬½@2x.png" alt="brandon-barrett-867531295" height="14" width="72"/></a>   <a href="https://profile.indeed.com/p/brandonb-ohoavx4" target="blank"><img  src="Indeed_2021_Logo_RGB_White.png" alt="brandon-barrett-867531295" height="14" width="72"/></a> 
  <a href="mailto:S1543012@student.mcckc.edu">
-<iframe src="https://giphy.com/embed/ZC3CkcI03G2bWG1P76" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/letter-mail-email-ZC3CkcI03G2bWG1P76">via GIPHY</a></p>
 </p> 
 
  <!-- Some GIFs are from https://github.com/Anmol-Baranwal//markdown-GIFs -->
