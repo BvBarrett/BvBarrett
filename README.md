@@ -5,7 +5,7 @@
  <a href="https://github.com/BvBarrett">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white">
-      <img alt="GitHub" title="GitHub" height="45" width="45" src="https://cdn.simpleicons.org/github"></picture></a>
+      <img alt="GitHub" title="GitHub" height="38" width="38" src="https://cdn.simpleicons.org/github"></picture></a>
   <a href="mailto:S1543012@student.mcckc.edu">
 </p> 
 
