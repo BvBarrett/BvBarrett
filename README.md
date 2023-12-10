@@ -11,7 +11,7 @@ class Student:
         self.language_spoken = ["en_US"]
 
     def say_hi(self):
-        print("Hello all! Thanks for dropping by. Here below I provided a little about myself and what I am striving to accomplish professionally in the Tech field. ")
+        print("Hello all! Thanks for dropping by my page. Here below I provided more about myself. Happy Learning! ")
 ```
 <h3 align="center"> B.S. Computer Science Student | Aspiring Data Scientist</a></h3>
 
