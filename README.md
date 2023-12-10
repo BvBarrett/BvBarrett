@@ -1,7 +1,22 @@
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
+
+class Student:
+
+    def __init__(self):
+        self.name = "Brandon Barrett"
+        self.role = "Computer Science Student"
+        self.language_spoken = ["en_US"]
+
+    def say_hi(self):
+        print("Hello all! Thanks for dropping by!.")
+```
 <h3 align="center"> B.S. Computer Science Student | Aspiring Data Scientist</a></h3>
 
 <p align="center">
-Inquisitive self starter, excellent communicator and highly motivated CS student with intermediate skills connected to SQL, Python, Java and C++. I am eager to learn and develop my skills as I continue my education. 
+Inquisitive self starter, excellent communicator and highly motivated CS student with intermediate skills connected to SQL, Python, Java and C++. I am eager to learn and develop my skills as I continue my education.
 
  <!-- Some GIFs are from https://github.com/Anmol-Baranwal//markdown-GIFs -->
  <h2>My Experience <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="45">&nbsp;</h2></summary> 
