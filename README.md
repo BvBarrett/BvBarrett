@@ -5,11 +5,6 @@
 
 class Student:
 
-    def __init__(self):
-        self.name = "Brandon Barrett"
-        self.role = "Computer Science Student"
-        self.language_spoken = ["en_US"]
-
     def say_hi(self):
         print("Hello all! Thanks for dropping by my page. Here below, I provide more about myself. Happy Learning!") 
 ```
