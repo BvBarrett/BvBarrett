@@ -8,9 +8,8 @@ class Student:
     def say_hi(self):
         print("Hello all! Thanks for dropping by my page. Here below, I provide more about myself. Happy Learning!") 
 ```
-<h3 align="center"> B.S. Computer Science Student | Aspiring Data Scientist</a></h3>
+ B.S. Computer Science Student | Aspiring Data Scientist</a></h3>
 
-<p align="center">
 Inquisitive self starter, excellent communicator and highly motivated CS student with intermediate skills connected to SQL, Python, Java and C++. I am eager to learn and develop my skills as I continue my education.
 
  <!-- Some GIFs are from https://github.com/Anmol-Baranwal//markdown-GIFs -->
