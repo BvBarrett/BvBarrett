@@ -1,4 +1,4 @@
-<h3>B.S. Computer Science Student | Aspiring Data Scientist</a></h3>
+<h3>B.S. Computer Science Student a></h3>
 
 ```python
 #!/usr/bin/python
