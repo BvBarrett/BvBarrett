@@ -8,7 +8,10 @@
 class Student:
 
     def say_hi(self):
-        print("Hello all! Thanks for dropping by my page. Here below, I provide more about myself. Happy Learning!") 
+        print("Hello all! Thanks for dropping by my page. Here below, I provide more about myself. Happy Learning!")
+
+        Inquisitive self starter, excellent communicator and highly motivated CS student with intermediate skills connected to SQL, Python, Java and C++.
+        I am eager to learn and develop my skills as I continue my education.
 ```
 
 Inquisitive self starter, excellent communicator and highly motivated CS student with intermediate skills connected to SQL, Python, Java and C++. I am eager to learn and develop my skills as I continue my education.
