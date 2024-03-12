@@ -11,8 +11,6 @@ class Student:
         print("Hello all! Thanks for dropping by my page. Happy Learning!")
 
 ```
-
- <!-- Some GIFs are from https://github.com/Anmol-Baranwal//markdown-GIFs -->
  
  <h2>My Experience</h2></summary> 
 
