@@ -14,8 +14,6 @@ class Student:
         print("Hello all! Thanks for dropping by my page. Happy Learning!")
 
 ```
- 
-## My Experience
 
 ##### Languages
 
