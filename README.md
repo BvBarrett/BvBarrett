@@ -12,8 +12,6 @@ class Student:
 
 ```
 
-Inquisitive self starter, excellent communicator and highly motivated CS student with intermediate skills connected to SQL, Python, Java and C++. I am eager to learn and develop my skills as I continue my education.
-
  <!-- Some GIFs are from https://github.com/Anmol-Baranwal//markdown-GIFs -->
  <h2>My Experience</h2></summary> 
 
